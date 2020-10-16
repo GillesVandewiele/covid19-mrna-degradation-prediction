@@ -2,7 +2,7 @@
 
 fourth place solution to the "OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction" competition organized by Stanford University and Kaggle
 
-By team FromTheWheel & [Dyed](https://www.kaggle.com/mtinti) & [StoneShop](https://www.kaggle.com/bsteenwi).
+By team [FromTheWheel](https://www.kaggle.com/group16) & [Dyed](https://www.kaggle.com/mtinti) & [StoneShop](https://www.kaggle.com/bsteenwi).
 
 
 In order to fully reproduce our approach, the following changes need to be made:
